@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently working on Fullstack Developer<br>Having good knowledge on React , SpringBoot , Flask , Mysql , JWT<br>Contact me : kiranraja.036@gmail.com
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiranraja_36) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
